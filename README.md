@@ -1,5 +1,5 @@
-MERN Contact Keeper App | Visit Deployed App on Heroku<br><br>
-Link: https://sleepy-meadow-56084.herokuapp.com
+MERN Contact Keeper App | Visit Deployed App<br><br>
+Link: https://contact-manager-seven.vercel.app/
 
 # <h2>Contact Keeper :ledger:</h2>
 
