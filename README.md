@@ -78,4 +78,4 @@ Feel free to reach out if any issue :raised_hands:
 
 ## :busts_in_silhouette: Maintainer
 
--   [Varun Sharma](https://github.com/RAVIRAUSHANSINGH)
+-   [Ravi Raushan](https://github.com/RAVIRAUSHANSINGH)
